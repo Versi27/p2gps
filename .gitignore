@@ -1,13 +1,13 @@
-   # Compilados de Maven
-   target/
+# Compilados de Maven
+target/
 
-   # Ficheros de IDE
-   .idea/
-   *.iml
-   .vscode/
-   .settings/
-   .project
-   .classpath
+# Ficheros de IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
 
-   # Logs y temporales
-   *.log
+# Logs y temporales
+*.log
